@@ -1,0 +1,8 @@
+{
+  "name": "Remix RencanaNikah — Wedding Planner \u0026 Audit Keuangan",
+  "description": "Platform manajemen pernikahan terpadu dengan hitungan mundur hari-H, daftar harga vendor \u0026 sinkronisasi kalender, pelacakan anggaran otomatis, pengingat tagihan real-time, brankas dokumen digital, serta ekspor laporan audit PDF dan Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
